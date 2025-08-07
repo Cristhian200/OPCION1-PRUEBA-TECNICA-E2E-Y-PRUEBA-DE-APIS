@@ -1,0 +1,6 @@
+# Conclusiones de la prueba técnica E2E
+
+- Cypress permitió una rápida implementación y ejecución de la prueba E2E.
+- El flujo de compra en Demoblaze fue automatizado exitosamente: agregar productos, visualizar el carrito, completar el formulario y finalizar la compra.
+- La automatización puede ser extendida para validar mensajes, valores y reportes.
+- Cypress es ideal para pruebas funcionales rápidas y visuales en aplicaciones web modernas.

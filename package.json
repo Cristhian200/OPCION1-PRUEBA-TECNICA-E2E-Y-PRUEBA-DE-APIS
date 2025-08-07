@@ -1,0 +1,15 @@
+{
+  "name": "demoblaze-e2e-test",
+  "version": "1.0.0",
+  "description": "Prueba técnica E2E automatizada con Cypress para Demoblaze",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
