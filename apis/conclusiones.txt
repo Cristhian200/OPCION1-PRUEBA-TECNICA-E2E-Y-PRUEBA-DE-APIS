@@ -1,0 +1,9 @@
+# Conclusiones de la prueba de APIs
+
+- Cypress permite automatizar pruebas REST de forma sencilla y rápida.
+- Se validaron los casos de registro y login en la API de Demoblaze:
+  - Registro exitoso de usuario nuevo.
+  - Intento de registro de usuario existente.
+  - Login exitoso con credenciales correctas.
+  - Login fallido con credenciales incorrectas.
+- Las respuestas de la API pueden variar, pero Cypress facilita la captura y validación de los resultados.
